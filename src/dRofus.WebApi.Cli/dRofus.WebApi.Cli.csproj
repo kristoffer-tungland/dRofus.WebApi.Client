@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\dRofus.WebApi.Client\dRofus.WebApi.Client.csproj" />
+    <ProjectReference Include="..\dRofus.WebApi.Client\dRofus.WebApi.Client.csproj" />
   </ItemGroup>
 
 </Project>

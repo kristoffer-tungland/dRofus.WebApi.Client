@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34004.107
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dRofus.WebApi.Client", "dRofus.WebApi.Client\dRofus.WebApi.Client.csproj", "{43F80449-B8F7-4653-88F6-F4A3C84E2981}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dRofus.WebApi.Cli", "src\dRofus.WebApi.Cli\dRofus.WebApi.Cli.csproj", "{ABBDA197-D856-4F7F-A922-3F7F08BC5B40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dRofus.WebApi.Cli", "dRofus.WebApi.Cli\dRofus.WebApi.Cli.csproj", "{ABBDA197-D856-4F7F-A922-3F7F08BC5B40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dRofus.WebApi.Client.Tests", "dRofus.WebApi.Client.Tests\dRofus.WebApi.Client.Tests.csproj", "{7A399D53-7F5E-49C3-9D86-B2932E964897}"
 EndProject
